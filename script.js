@@ -11,8 +11,8 @@ async function api(city) {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "4a1a56f92dmshb5aedf64a947abfp1f1a18jsnf46627b6bf76",
-      "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",
+      "X-RapidAPI-Key": "",
+      "X-RapidAPI-Host": "",
     },
   };
 
